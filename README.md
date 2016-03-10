@@ -1,4 +1,8 @@
-# CDispatch
+**UPDATE**: This is superfluous now.
+[swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch)
+now includes the Dispatch module on Linux.
+
+## CDispatch
 
 Linux Swift System Library for libdispatch aka GCD. This is NOT required for
 OSX Swift.
